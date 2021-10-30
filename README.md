@@ -13,7 +13,7 @@ a dot in in front of each filename.  e.g. `.tmux.conf` and `.tmux.reset.conf`.
 These files change up the keys that Tmux uses to accomodate my own workflow.
 
 Here's a summary of what's changed:
-- To activate tmux, the control key is now `ctrl-a`
+- To activate tmux, the control key is now `ctrl-x`
 - To split a window or pane horizontally: `ctrl-|` (that's control-pipe)
 - To split a window or pane vertically: `ctrl-\` (that's control-backslash)
 - To rename the current session: `ctrl-,` (that's control-comma)
